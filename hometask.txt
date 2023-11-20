@@ -1,1 +1,12 @@
 Текст в файле README отличается.
+Видно 10 коммитов:
+добавление hometask
+Merge remote-tracking branch 'lyceum/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
